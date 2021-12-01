@@ -1,0 +1,15 @@
+C:\Users\JADPA_32\source\repos\AppCore\bin\Debug\netstandard2.0\AppCore.deps.json
+C:\Users\JADPA_32\source\repos\AppCore\bin\Debug\netstandard2.0\AppCore.dll
+C:\Users\JADPA_32\source\repos\AppCore\bin\Debug\netstandard2.0\AppCore.pdb
+C:\Users\JADPA_32\source\repos\AppCore\bin\Debug\netstandard2.0\Domanin.dll
+C:\Users\JADPA_32\source\repos\AppCore\bin\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\JADPA_32\source\repos\AppCore\bin\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\JADPA_32\source\repos\AppCore\bin\Debug\netstandard2.0\Domanin.pdb
+C:\Users\JADPA_32\source\repos\AppCore\obj\Debug\netstandard2.0\AppCore.csproj.AssemblyReference.cache
+C:\Users\JADPA_32\source\repos\AppCore\obj\Debug\netstandard2.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA_32\source\repos\AppCore\obj\Debug\netstandard2.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\JADPA_32\source\repos\AppCore\obj\Debug\netstandard2.0\AppCore.AssemblyInfo.cs
+C:\Users\JADPA_32\source\repos\AppCore\obj\Debug\netstandard2.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_32\source\repos\AppCore\obj\Debug\netstandard2.0\AppCore.csproj.CopyComplete
+C:\Users\JADPA_32\source\repos\AppCore\obj\Debug\netstandard2.0\AppCore.dll
+C:\Users\JADPA_32\source\repos\AppCore\obj\Debug\netstandard2.0\AppCore.pdb

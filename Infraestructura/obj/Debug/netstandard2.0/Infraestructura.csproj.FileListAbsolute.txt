@@ -1,0 +1,13 @@
+C:\Users\JADPA_32\source\repos\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.deps.json
+C:\Users\JADPA_32\source\repos\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\JADPA_32\source\repos\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\JADPA_32\source\repos\Infraestructura\bin\Debug\netstandard2.0\Domanin.dll
+C:\Users\JADPA_32\source\repos\Infraestructura\bin\Debug\netstandard2.0\Domanin.pdb
+C:\Users\JADPA_32\source\repos\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\JADPA_32\source\repos\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA_32\source\repos\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\JADPA_32\source\repos\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfo.cs
+C:\Users\JADPA_32\source\repos\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_32\source\repos\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CopyComplete
+C:\Users\JADPA_32\source\repos\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\JADPA_32\source\repos\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.pdb

@@ -1,0 +1,10 @@
+C:\Users\JADPA_32\source\repos\Domanin\bin\Debug\netstandard2.0\Domanin.deps.json
+C:\Users\JADPA_32\source\repos\Domanin\bin\Debug\netstandard2.0\Domanin.dll
+C:\Users\JADPA_32\source\repos\Domanin\bin\Debug\netstandard2.0\Domanin.pdb
+C:\Users\JADPA_32\source\repos\Domanin\obj\Debug\netstandard2.0\Domanin.csproj.AssemblyReference.cache
+C:\Users\JADPA_32\source\repos\Domanin\obj\Debug\netstandard2.0\Domanin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA_32\source\repos\Domanin\obj\Debug\netstandard2.0\Domanin.AssemblyInfoInputs.cache
+C:\Users\JADPA_32\source\repos\Domanin\obj\Debug\netstandard2.0\Domanin.AssemblyInfo.cs
+C:\Users\JADPA_32\source\repos\Domanin\obj\Debug\netstandard2.0\Domanin.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_32\source\repos\Domanin\obj\Debug\netstandard2.0\Domanin.dll
+C:\Users\JADPA_32\source\repos\Domanin\obj\Debug\netstandard2.0\Domanin.pdb
